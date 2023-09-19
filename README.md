@@ -8,8 +8,7 @@ Yoda AI is a project that harnesses the power of Language Learning Models (LLMs)
 - [Key Features](#key-features)
 - [Setup](#setup)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
@@ -29,7 +28,7 @@ SearchAhead is a Python-based project that showcases the potential of Language L
 
 Clone the repository to your local machine:
 
-   ```bash
+   bash
    git clone https://github.com/your-username/SearchAhead.git
    cd SearchAhead
 
@@ -37,7 +36,7 @@ Install the required dependencies:
 pip install -r requirements.txt
 Download and configure the desired language models, embeddings, and vector databases.
 
-Usage
+## Usage
 
 Navigate to the project directory:
 
