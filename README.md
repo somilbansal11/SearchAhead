@@ -1,7 +1,7 @@
 # SearchAhead
 # SearchAhead: Language Learning Models for Intelligent Applications
 
-Yoda AI is a project that harnesses the power of Language Learning Models (LLMs) and AI tools to enable intelligent applications that involve conversing with documents, web searches, and interactive GPT-based chatbots. The project integrates LLMs from GPT-4, Llama, Hugging Face, along with vector database FAISS, to create a suite of AI tools for diverse applications.
+SearchAhead is a project that harnesses the power of Language Learning Models (LLMs) and AI tools to enable intelligent applications that involve conversing with documents, web searches, and interactive GPT-based chatbots. The project integrates LLMs from GPT-4, Llama, Hugging Face, along with vector database FAISS, to create a suite of AI tools for diverse applications.
 
 ## Table of Contents
 - [Introduction](#introduction)
